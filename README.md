@@ -1,1 +1,1 @@
-# CEXs-Arb-Screener
+pip install ccxt
